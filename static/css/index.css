@@ -1,0 +1,38 @@
+.card {
+    display:inline-block;
+    height:fit-content;
+    border-color: pink;
+    
+
+    
+}
+
+.card-body {
+    background-color:rgb(236, 188, 213);
+}
+
+
+
+.pres {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-color: rgb(236, 188, 213);
+}
+
+#home-button{
+    padding-top: 50px;
+}
